@@ -7,7 +7,7 @@
 ### 💻 Lenguajes de programación
 
 <p align="center">
-  [![C++](https://skillicons.dev/icons?i=cpp)]
+  [![My Skills](https://skillicons.dev/icons?i=cpp)]
   ![Python](https://skillicons.dev/icons?i=py)
   ![Java](https://skillicons.dev/icons?i=java)
   ![JavaScript](https://skillicons.dev/icons?i=js)
