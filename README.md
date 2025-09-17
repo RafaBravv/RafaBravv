@@ -6,12 +6,10 @@
 
 ### 💻 Lenguajes de programación
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=cpp)]
+  ![C++](https://skillicons.dev/icons?i=cpp)
   ![Python](https://skillicons.dev/icons?i=py)
   ![Java](https://skillicons.dev/icons?i=java)
   ![JavaScript](https://skillicons.dev/icons?i=js)
-</p>
 
 ### 🛠️ Frameworks
 
