@@ -1,5 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Rafa Bravo 👋
 
+**Desarrollador Junior de robótica**. Actualmente estoy trabajando con **ROS2**, **Python** y **C++**.
+
+## 🪄 Mis conocimientos
+
+### 💻 Lenguajes de programación
+
+<p align="center">
+  ![C++](https://skillicons.dev/icons?i=cpp)
+  ![Python](https://skillicons.dev/icons?i=py)
+  ![Java](https://skillicons.dev/icons?i=java)
+  ![JavaScript](https://skillicons.dev/icons?i=js)
+</p>
+
+### 🛠️ Frameworks
+
+<p align="center">
+  ![ROS2](https://skillicons.dev/icons?i=ros)
+</p>
+
+### 🤖 Robótica
+
+<p align="center">
+  ![Arduino](https://skillicons.dev/icons?i=arduino)
+</p>
+
+## 🔭 Mis proyectos
+
+Actualmente estoy desarrollando un robot autónomo de seguridad y servicio.
 <!--
 **RafaBravv/RafaBravv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
