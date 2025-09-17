@@ -13,15 +13,11 @@
 
 ### 🛠️ Frameworks
 
-<p align="center">
   ![ROS2](https://skillicons.dev/icons?i=ros)
-</p>
 
 ### 🤖 Robótica
 
-<p align="center">
   ![Arduino](https://skillicons.dev/icons?i=arduino)
-</p>
 
 ## 🔭 Mis proyectos
 
