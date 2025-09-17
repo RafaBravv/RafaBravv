@@ -6,10 +6,12 @@
 
 ### 💻 Lenguajes de programación
 <div style={display: flex; justify-content: center; align-items: center}>
+  <div>
   ![C++](https://skillicons.dev/icons?i=cpp)
   ![Python](https://skillicons.dev/icons?i=py)
   ![Java](https://skillicons.dev/icons?i=java)
   ![JavaScript](https://skillicons.dev/icons?i=js)
+  </div>
 </div>
   
 
