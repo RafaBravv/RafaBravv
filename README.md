@@ -19,6 +19,7 @@
 ### 🤖 Robótica
 
   ![Arduino](https://skillicons.dev/icons?i=arduino)
+  ![Raspberry_Pi](https://skillicons.dev/icons?i=raspberrypi)
 
 ## 🔭 Mis proyectos
 
